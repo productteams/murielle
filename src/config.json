@@ -71,19 +71,19 @@
           "categoryLabel": "woman",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "All jewelry",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "pearls & hoodies",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "rings",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "necklaces",
               "menuLink": "/shop"
             }
           ]
@@ -96,7 +96,7 @@
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "rings & clips",
               "menuLink": "/shop"
             },
             {
