@@ -23,27 +23,27 @@ const FaqPage = (props) => {
               <h3>Deliveries</h3>
               <p>
                 To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
+                section of your Lithium Yacht Account. You should receive an email
                 notification when your package is dispatched. Please check your
                 email inbox and your junk filter.
               </p>
               <p>
                 We dispatch all orders within 24 hours of being placed. During
-                our sale periods it can get very busy in our factory, orders may
+                our sale periods it can get very busy in our shop, orders may
                 take a little longer to be dispatched so please add five working
                 days just in case.
               </p>
               <p>
                 If there’s something you want to know about your order, please
-                get in touch with us at customerservice@example.com or call us
-                on +44 (0)115 111 1111.
+                get in touch with us at sales@LithiumYacht.com or call us
+                on +1 (805)821-1151.
               </p>
             </div>
             <div className={styles.subSection}>
               <h3>Returns & Exchanges</h3>
               <p>
                 To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
+                section of your Lithium Yacht Account. You should receive an email
                 notification when your package is dispatched. Please check your
                 email inbox and your junk filter.
               </p>
@@ -62,7 +62,7 @@ const FaqPage = (props) => {
               <h3>Shipping Rates</h3>
               <p>
                 To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
+                section of your Lithium Yacht Account. You should receive an email
                 notification when your package is dispatched. Please check your
                 email inbox and your junk filter.
               </p>
@@ -104,7 +104,7 @@ const FaqPage = (props) => {
                 use of your card will take place on our website. But if a
                 fraudulent transaction does take place, first contact your
                 credit or debit card company so they can protect your card and
-                reimburse you. Then let us know at customerservice@example.com
+                reimburse you. Then let us know at sales@LithiumYacht.com
                 and we will work with your card company to minimise any further
                 inconvenience to you.
               </p>
