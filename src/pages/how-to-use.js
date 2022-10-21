@@ -42,19 +42,11 @@ const HowToUsePage = (props) => {
                 (Matter.).
               </p>
               <p>
-                The Sydney theme is built for Netlify as an ecommerce theme
-                suitable for JAMStack archtitecture. This theme is free to use
-                through Netlify’s GitHub account, and can be used with any
-                ecommerce platform that support a headless architecture.
+                The LithiumYacht is built for Netlify as an ecommerce theme
+                suitable for JAMStack archtitecture.
               </p>
               <p>
-                Matter. has pre-built connections to microservices available
-                through its JAMM.™ solution. JAMM.™ is a system built to run a
-                headless architecture. JAMM.™ can connect micro-services,
-                orchestrate data and publish websites to an edge network for
-                lighting fast performce. JAMM.™ creates a server-side rendered
-                website that is fast, stable and scalable for high traffic
-                events.
+                Matter.
               </p>
               <Button target={true} href="https://jamm.matter.design/">
                 Read more about JAMM.™
@@ -68,25 +60,13 @@ const HowToUsePage = (props) => {
             <h3>Best of Breed Tools</h3>
             <div id={'#tools'} ref={toolsRef}>
               <p>
-                Headless architecture enables Composable Commerce. What this
-                means is that you can ‘compose’ a suite of best of breed tools
-                together to create an agile ecommerce system. This approach is
-                the opposite end of the spectrum from a traditional ‘Monolithic’
-                architecture where all the functionality and data comes from one
-                source.
+                Headless 
               </p>
               <p>
-                Why go with Composable Commerce? History has shown, technology
-                innovation comes from new specialised solutions that find better
-                ways to do things. By creating an architecture that taps into
-                this innovation, you are getting a system that is innovating
-                faster than monolithic solutions giving you a competitive
-                advantage.
+                Why 
               </p>
               <p>
-                Matter. has been innovating since 2003, and we have aligned with
-                companies that do it best. The following technologies are either
-                currently available or are on our roadmap for JAMM.™.
+                Matter.
               </p>
 
               <strong>Ecommerce:</strong>
@@ -144,9 +124,7 @@ const HowToUsePage = (props) => {
               </ul>
 
               <p>
-                Our team are fanatical about site speed and the agility of a
-                composable commerce approach. If you need help to setup a
-                Headless architecture, we’d love to hear from you.
+                Ou
               </p>
 
               <p>
