@@ -48,7 +48,7 @@
           "link": "/faq"
         },
         {
-          "text": "Contact Me",
+          "text": "Contact Us",
           "link": "/support#contact"
         },
         {
@@ -56,7 +56,7 @@
           "link": "/support#returns"
         },
         {
-          "text": "How to use this theme",
+          "text": "How to design",
           "link": "/how-to-use"
         }
       ]
@@ -68,47 +68,47 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "electronics",
           "submenu": [
             {
-              "menuLabel": "All jewelry",
+              "menuLabel": "All Navigation",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "pearls & hoodies",
+              "menuLabel": "GPS",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "rings",
+              "menuLabel": "AIS",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "necklaces",
+              "menuLabel": "Radar",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Electric Propulsion",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "All Motors",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "rings & clips",
+              "menuLabel": "48 volt Systems",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "96 Volt ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Lithium ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "pants",
+              "menuLabel": "BMS",
               "menuLink": "/shop"
             }
           ]
@@ -117,11 +117,11 @@
           "categoryLabel": "accessories",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "Connectors",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "Wire and Cables",
               "menuLink": "/shop"
             }
           ]
