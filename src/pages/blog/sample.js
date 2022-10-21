@@ -13,24 +13,16 @@ const SamplePage = (props) => {
           <div className={styles.blogContainer}>
             <Blog
               category={'design'}
-              title={'Friends of Sydney: Flora Fricker'}
+              title={'Friends of Lithium Yacht: James Amberly'}
               image={'/blogFeatured.png'}
               alt={''}
             >
               <div className={styles.content}>
                 <p className={styles.excerpt}>
-                  London-based floral designer Flora Fricker champions seasonal
-                  British flowers and UK producers in her beautiful and
-                  sustainable creations. This season, we worked with Flora to
-                  style Sunspel stores for Christmas, for which she produced
-                  eye-catching sustainably sourced wreaths.
+                  London-based direct electric drive maker etc.
                 </p>
                 <p className={styles.blogParagraph}>
-                  Delaware limited liability company (The Sydney) collects
-                  personal information that you voluntarily provide when
-                  applying or registering for an account with The Upside or
-                  making a purchase on The Upside website; www.theupside.com
-                  (the Website).
+                  Delaware limited liability company (The Sydney).
                 </p>
                 <p className={styles.blogParagraph}>
                   This Privacy Policy (Privacy Policy) outlines how your
@@ -79,7 +71,7 @@ const SamplePage = (props) => {
                   abide by this Privacy Policy.
                 </p>
                 <p className={styles.blogParagraph}>
-                  The Upside collects, uses and discloses information regarding
+                  The Lithium Yacht collects, uses and discloses information regarding
                   users aged 13-18 in the same manner as it does for adults.
                 </p>
               </div>
