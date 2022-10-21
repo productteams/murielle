@@ -38,7 +38,7 @@ const ShopV2Page = (props) => {
           maxWidth={'650px'}
           name={`Woman`}
           subtitle={
-            'Look to our women’s sweaters for modern takes on one-and-done dressing. From midis in bold prints to dramatic floor-sweeping styles and easy all-in-ones, our edit covers every mood.'
+            'Update '
           }
         />
         <Container size={'large'} spacing={'min'}>
