@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'Discover Winter 2022'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
@@ -79,7 +79,7 @@ const IndexPage = () => {
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
             title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
+            description={`This Lithium Unit is `}
             textLink={'shop now'}
             link={'/shop'}
           />
@@ -98,16 +98,16 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about Lithium Yacht'}
         quote={
-          '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
+          '“We believe in two things: the pursuit of quality in everything we do, and fully transparency. Everything else should take care of itself.”'
         }
       />
 
       {/* Blog Grid */}
       <div className={styles.blogsContainer}>
         <Container size={'large'}>
-          <Title name={'Journal'} subtitle={'Notes on life and style'} />
+          <Title name={'Journal'} subtitle={'Notes on technology and style'} />
           <BlogPreviewGrid data={blogData} />
         </Container>
       </div>
@@ -130,7 +130,7 @@ const IndexPage = () => {
       <div className={styles.socialContainer}>
         <Title
           name={'Styled by You'}
-          subtitle={'Tag @sydney to be featured.'}
+          subtitle={'Tag @LithiumYacht to be featured.'}
         />
         <div className={styles.socialContentGrid}>
           <img src={`/social/socialMedia1.png`} alt={'social media 1'} />
