@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`Lithium Yachts \n local experts in marine electrical systems`}
         />
 
         <div className={styles.navContainer}>
@@ -48,16 +48,12 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+              Founded in 2012, Lithium Yacht is an innovative design and implementation team who designs, installs, and sea trials electrical and electronics systems. We help our boat owner clients understand their options, and guarantee the implementations we recommend. 
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              We are boat owners. We have implemented electrical re-powers in our boats. We have extensive experience working at some of the best boat yards and follow best practices and are ABYC and NMEA certified. We take pride in understanding all the re-powering options currently on the market and are happy to share our knowledge with our customers.Today we are the only local company with the ability to build our own Lithium batteries for marine environments and installing them - giving us a unique insight into how Lithium really works and how to optimize each system for our clients. We currently run all battery chemistries ( Lithium, AGM,Lead/Acid) in our test boats, and are happy to share the actual data on what works and what doesn't. 
             </p>
           </div>
         </Container>
@@ -83,24 +79,17 @@ const AboutPage = (props) => {
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
-                desire to innovate. As well as using the finest fibres such as
-                Sea Island cotton, cashmere and silk, he invented his own
-                fabrics. Sunspel continues this commitment to innovation today
-                and our unique fabrics include: Q100 Sea Island cotton, Q82
-                Supima cotton, Q75 warp knit mesh cotton and Q14 warp knit
-                cellular cotton. The technology behind these fabrics remains
-                unchanged today and all Sunspel products use the finest cottons,
-                wools and fibres.
+                Our team, has both an eye for quality and a
+                desire to innovate. We use the finest equipment on the market such as
+                Victron, Furuno, Garmin, Blue Seas, and pride ourselves in understanding how and why units work.  Our wiring is beautiful and elegant and 
+                intelligently and obviously marked. We pride ourselves in making our installation so the next person who comes after us can easily understand the systems we have implemented. Every electrical installation we do comes with a fully annotated circuit diagram and product documentation so the boat owner and future technicians can easily understand what was done and know that it was done right. This documentation has a permanent elecrtonic home so it never can be lost and is always available. Lithium Yacht continues this commitment to innovation and transparency today.
+                Our unique approach includes: We provide a lifetime guarantee for phone support. We print our phone number on every installation we do - so the boat owner and subsequent owners know who to contact if there is anything they do not understand in our implementation. 
               </p>
               <p>
-                Made in Long Eaton, England and crafted from our luxurious long
-                staple Supima cotton for unparalleled softness, comfort and
-                durability, the Sunspel T-shirt has a classic fit and only the
-                most essential details.{' '}
+                Made Proudly in South Bay.{' '}
               </p>
               <p>
-                With over 50 years spent perfecting shipping methods around the world, Lithium Yacht know show to get the right part to the right location.
+                International Shipping: With over 50 years spent perfecting shipping methods around the world, Lithium Yacht knows how to get the right part to the right location. Many of our customers have us ship to cruising locations around the world and we know the ins and outs to reduce the hassles with customs. We also provide installation and trouble-shooting in multiple languages as necessary and are multi-lingual as required if our customers need us to talk to their local installers. This is our committment to those cruisers - as we have been there and know how important a helping hand can be. 
               </p>
             </div>
           </div>
